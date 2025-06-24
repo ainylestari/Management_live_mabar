@@ -226,15 +226,17 @@ a {
   position: relative;
 }
 
-.fa-tiktok {
-  color: #ffffff;
-}
-
 .btn-login-tiktok {
   border-radius: 25%;
   border-color: #ffffff;
   border-width: 1;
   background-color: rgba(0, 1, 14, 0.34);
+  color: #ffffff;
 }
+
+.fa-tiktok {
+  color: #ffffff;
+}
+
 
 
