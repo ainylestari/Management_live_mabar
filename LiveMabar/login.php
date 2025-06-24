@@ -29,7 +29,12 @@
           </div>
         </div>
         <div class="col-5" id="login-form">
-
+            <h1>WELCOME</h1>
+            <h6>Want to take control of the queue and<br>see your game stats? Let’s log in!</h6>
+            <button class="btn-login-tiktok">
+              <i class="fa-brands fa-tiktok"></i>
+              <p>Login with TikTok</p>
+            </button>
         </div>
       </div>
     </div>
