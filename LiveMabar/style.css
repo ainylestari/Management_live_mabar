@@ -202,3 +202,28 @@ a {
   font-size: 1rem;
   cursor: pointer;
 }
+
+/* 
+=========== LOGIN.PHP =============
+*/
+
+.login-page{
+  height: 100vh;
+  background-color: #4A51A2;
+}
+
+#gradasi {
+  height: 100vh;
+  background: linear-gradient(to right, #4a51a200, #4a51a2a2, #4A51A2);
+}
+
+.pict-section {
+  height: 100vh;
+  background-image: url('img/Wallpaperfanny.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+

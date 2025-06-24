@@ -19,13 +19,16 @@
         integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
   </head>
-  <body>
-    <div class="container m-0 p-0">
+  <body style="height: 100vh;">
+    <div class="container m-0 p-0 login-page">
       <div class="row m-0 p-0">
-        <div class="col m-0 p-0" id="pict">
-          <img src="img/Wallpaper fanny.jpeg" class="img-fluid" alt="fanny">
+        <div class="col-7 m-0 p-0 pict-section">
+          <div class="row">
+            <div class="col-8"></div>
+            <div class="col-4" id=gradasi></div>
+          </div>
         </div>
-        <div class="col" id="login-text">
+        <div class="col-5" id="login-form">
 
         </div>
       </div>
